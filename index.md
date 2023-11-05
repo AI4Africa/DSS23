@@ -1,7 +1,7 @@
 Data Science School 2023 
 =============================
 
-![Banner DSS 2022 ](img/bannerDSS2023.jpg)
+![Banner DSS 2022 ](docs/img/bannerDSS2023.jpg)
 ## Objectives
 The industry interest and adoption of data science continues to grow as it leverages big data to achieve higher levels of business value. During this third edition of Data Science School combined with the fourth edition of Business Intelligence & Semantic Web seminar, participants will learn and put in practice solutions around recent data science concepts, tools, and techniques for data collection, ingestion, transformation, and consolidation.
 
@@ -56,18 +56,18 @@ IT professionals, engineers, consultants, students interested in Data Science an
 
 ## Program
 
-[Check the program details](program.md)
+[Check the program details](docs/program.md)
 
 
 ## Speakers
 
-The list of the speakers is available [here](speakers.md)
+The list of the speakers is available [here](docs/speakers.md)
 
 
 ## Venue
 
 This event will be held at the [Institut de Mathématiques et de Sciences Physiques (IMSP)](http://www.imsp-benin.com/home/) Dangbo, Bénin.
-![IMSP image](img/IMSP-image.jpeg)
+![IMSP image](docs/img/IMSP-image.jpeg)
 
 The details for the remote participation will be shared here in due time.
 
@@ -82,7 +82,7 @@ The details for the remote participation will be shared here in due time.
 
 ## Logos
 
-![IMSP](img/logoimsp.png)
+![IMSP](docs/img/logoimsp.png)
 <img src="img/logo_ceasma_fr.png" alt="CEA-SMIA" width="200"/>
 <img src="img/afiaLogo.png" alt="CEA-SMIA" width="200"/>
 
