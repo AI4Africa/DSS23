@@ -89,7 +89,6 @@ The details for the remote participation will be shared here in due time.
 ## Partners
 
 - [List of university partners](partners.md)
-- 
 
 
 ## Main Sponsor
