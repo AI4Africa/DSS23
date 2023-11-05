@@ -2,55 +2,70 @@ Data Science School 2023
 =============================
 
 ![Banner DSS 2022 ](docs/img/bannerDSS2023.jpg)
-## Objectives
-The industry interest and adoption of data science continues to grow as it leverages big data to achieve higher levels of business value. During this third edition of Data Science School combined with the fourth edition of Business Intelligence & Semantic Web seminar, participants will learn and put in practice solutions around recent data science concepts, tools, and techniques for data collection, ingestion, transformation, and consolidation.
+## Context
+Education faces significant challenges worldwide, particularly in underserved regions. Limited access to quality education, insufficient resources, and a shortage of qualified teachers hinder students' learning and future opportunities. Traditional teaching methods may not suit individual learning needs, leading to disengagement and lower academic outcomes. Additionally, AI's potential in education is limited due to the lack of localized and unbiased training data, affecting students from diverse linguistic and cultural backgrounds. Addressing these issues is crucial to create an equitable and inclusive learning environment, empowering all students to succeed in today's rapidly changing world.
 
-At the end of the school, the participants should be able to :
-- Understand the main concepts and techniques behind big data frameworks and architectures, 
-- Practice machine learning pipelines implementation
-- Use data science tools and systems
-- Practice data visualization tools
-- Use knowledge engineering tools
-- Understand semantic web paradigm.
+## Objectives
+
+The overall objective of this school is to highlight the benefits of using AI in education in order to enhance the quality of the learning experience and teaching material in different  languages. 
+At the end of this school, the participants will be able to :
+1. Explain the major innovative approaches around AI for a better education;
+2. Identify the challenges of openly available, unbiased and localized training data for underrepresented cultures and languages;
+3. Implement at least one use case on AI usage for :
+    - Learning experience personalization (including students with special needs),
+    - Learning outcomes prediction, 
+    - Administrative workflows, 
+    - Resource planning, 
+    - Curriculum design.
+    - Use AI-based approaches for spreading teaching materials to the largest in local languages seamlessly.
+
+
+
 
 ## Participants
-IT professionals, engineers, consultants, students interested in Data Science and Business Intelligence concepts along with their practices.
-
+Educators and Lecturers, EdTech Entrepreneurs, AI Industry representatives, Masters, PhD students, Young AI researchers, Representatives of the Ministries of Education.
 
 
 ## Addressed Topics
 
-1. Introduction to Data Science (Architecture and paradigms)
-2. Cloud-based deployment (Google Cloud Platform)
-3. Data Engineering with NoSQL and data models (graph and column-oriented)
-4. Data Processing with Spark and Hadoop
-5. Deep learning processes parallelization and cluster mapping with TensorFlow
-6. Data Visualization
-7. Methodologies for presenting results
-8. Semantic Web 
-9. IoT and data stream
-10. Constraint programming
-11. Big data mining 
-12. Knowledge engineering
-13. Knowledge graphs and applications 
-14. Linked Data 
-15. NLP and AI applications
-16. Personal data in data science 
-17. Operational Research and AI 
-18. Law or ethics in data science exploitation
-19. Big data and bank loans
-20. Case Studies: Applications on e-health Information Systems
+- Implement an AI model for notes taking and learning outcome predictions based on silent AI listeners and course materials.  
+- Tutorial on LLM models and applications in education
+- Conversational agents for teaching 
+- Intelligent tutoring systems (ITS)
+- Dialogue-based tutoring systems (DBTS)
+- AI-driven Personalization for students learning paths
+- Ethical considerations in AI-driven education
+- AI solutions Survey
+
+
+## Main speakers
+- Théophile Dagba
+- John Aoga
+- Habib SIDI
+- Ratheil Houndji
+- Eugène C. Ezin 
+- Arnaud Ahouandjinou
+- Hafiz Tiomoko Ali
+- Jessica LOPEZ
+- Ghislain  Atemezing
+- Bonaventure Dossou
+- Mouhamadou Lamine Ba
+- Félicité DOMGUE
+- Ifeoma OMOKO
+- Matthew EKUM
 
 
 ## Organizers
-- Jules Degila (Bénin)
-- Ghislain Atemezing (France)
-- Ratheil Houndji (Bénin)
-- Pélagie Houngue (Bénin)
-- Carlos Ogouyandjou (Bénin) 
-- Joël Tossa (Bénin) 
-- Hénoc Soude (Bénin) 
-- Arnaud Ahouandjinou (Bénin) 
+- Carlos Ogouyandjou
+- Joël Tossa
+- Habib Sidi
+- Arnaud Ahouandjinou
+- Ratheil Houndji
+- Ghislain  Atemezing
+- Pélagie Hounguè
+- Hénoc Soude
+- Jules Dégila
+ 
   
 
 
@@ -74,17 +89,19 @@ The details for the remote participation will be shared here in due time.
 ## Partners
 
 - [List of university partners](partners.md)
-- [AFIA](https://afia.asso.fr/)
+- 
 
 
 ## Main Sponsor
 - [CEA-SMIA](https://ceasma-benin.org/)
+  
 
 ## Logos
 
 ![IMSP](docs/img/logoimsp.png)
-<img src="img/logo_ceasma_fr.png" alt="CEA-SMIA" width="200"/>
-<img src="img/afiaLogo.png" alt="CEA-SMIA" width="200"/>
+<img src="docs/img/logo_ceasma_fr.png" alt="CEA-SMIA" width="200"/>
+<img src="docs/img/logo-calavi.png" alt="Université Calavi" width="200"/>
+<img src="docs/img/logo-minsupBenin.png" alt="MinSup Bénin" width="200"/>
 
 
 
