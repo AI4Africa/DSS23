@@ -4,7 +4,7 @@ var programs = [
     {
         date: "2023-11-06",
         horaires: [
-            {heure1: "08:00", heure2: "10:00", theme: "NLP and applications", author: "Théophile DAGBA", link: "../asssets/slides/Ezin_AI_education.pdf"},
+            {heure1: "08:00", heure2: "10:00", theme: "NLP and applications", author: "Théophile DAGBA", link: "./asssets/slides/Ezin_AI_education.pdf"},
             {heure1: "10:00", heure2: "12:00", theme: "Demo : Using LLMs  conversational agents to produce teaching or research materials.", author: "Habib SIDI"},
             {heure1: "12:00", heure2: "14:00", theme: "Lunch Break", author: ""},
             {heure1: "14:00", heure2: "16:00", theme: "NLP applications in education", author: "John AOGA"},
