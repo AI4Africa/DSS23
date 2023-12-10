@@ -1,6 +1,13 @@
-# DSS23
+# Fourth Data Science School (DSS23), Dangbo, Benin
 The website for the Data Science School in Bénin, 2023.
 Live version at https://ai4africa.github.io/DSS23/index.html
+
+## Theme: Artificial Intelligence and Education 
+ - Dates: November 06th - November 10th, 2023
+- Institute of Mathematics and Physics (IMSP), African Center of Excellence in Mathematics, Informatics and Applications
+-  City: Dangbo
+-  Country: Benin
+
 
 ## Context
 Education faces significant challenges worldwide, particularly in underserved regions. Limited access to quality education, insufficient resources, and a shortage of qualified teachers hinder students' learning and future opportunities.
